@@ -5,3 +5,8 @@ I have a deep appreciation for design and believe it's crucial for exceptional u
 In my free time, I enjoy reading, spending time with my children, and exploring the internet. These activities enrich my life and inspire me personally and professionally.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peculiarguru)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me **peculiar4ezeh@gmail.com**
+
+
+
